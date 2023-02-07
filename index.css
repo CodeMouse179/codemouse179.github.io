@@ -1,5 +1,6 @@
 body
 {
+    margin: 0px;
     background-color:rgb(240, 151, 88);
 }
 h1
@@ -20,4 +21,12 @@ h1
     margin-left: auto;
     margin-right: auto;
     width: 100%;
+}
+.menu
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 100px;
+    background-color: rgb(185, 255, 230);
 }
