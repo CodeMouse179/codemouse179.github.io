@@ -1,0 +1,16 @@
+body
+{
+    background-color:rgb(240, 151, 88);
+}
+h1
+{
+    text-align: center;
+    font-family: 'Wonder Boy In Monster World', sans-serif;
+}
+.center
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
