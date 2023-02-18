@@ -1,0 +1,12 @@
+body
+{
+    margin: 0px;
+    background-color: darkslateblue;
+}
+.center
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
